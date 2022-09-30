@@ -1,0 +1,7 @@
+.invalid {
+  border:2px solid red !important;
+}
+input,select{
+  outline:none !important;
+  box-shadow: none !important;
+}
